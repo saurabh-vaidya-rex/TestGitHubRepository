@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func actionButtonClick(_ sender: UIButton) {
-        print("Button click event")
+        print("you finished")
     }
     
 }
